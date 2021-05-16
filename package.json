@@ -1,0 +1,17 @@
+{
+  "name": "hacker-news-next",
+  "version": "1.0.0",
+  "description": "hacker news clone made with next.js",
+  "main": "server.js",
+  "scripts": {
+    "dev": "next"
+  },
+  "author": "mohammed jaber",
+  "license": "ISC",
+  "dependencies": {
+    "isomorphic-fetch": "^3.0.0",
+    "next": "^10.2.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
